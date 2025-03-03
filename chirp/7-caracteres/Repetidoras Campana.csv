@@ -1,0 +1,4 @@
+Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsPolarity,RxDtcsCode,CrossMode,Mode,TStep,Skip,Power,Comment,URCALL,RPT1CALL,RPT2CALL,DVCODE
+0,CAMPANA,147.000000,+,0.600000,Tone,141.3,88.5,023,NN,023,Tone->Tone,FM,5.00,,50W,LU1DB Radio club campana. Centro VHF,,,,
+1,CAMPA PI V,145.270000,-,0.600000,Tone,100.0,88.5,023,NN,023,Tone->Tone,FM,5.00,,50W,LU1DB Radio club campana. Barrio los pioneros VHF,,,,
+2,CAMPA PI U,433.150000,+,5.000000,Tone,103.5,88.5,023,NN,023,Tone->Tone,FM,5.00,,50W,LU1DB Radio club campana. Barrio los pioneros UHF,,,,

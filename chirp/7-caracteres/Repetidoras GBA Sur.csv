@@ -1,0 +1,8 @@
+Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsPolarity,RxDtcsCode,CrossMode,Mode,TStep,Skip,Power,Comment,URCALL,RPT1CALL,RPT2CALL,DVCODE
+0,AVELL V,145.345000,-,0.600000,Tone,136.5,88.5,023,NN,023,Tone->Tone,FM,5.00,,50W,"LU7EO near Avellaneda, None OPEN",,,,
+1,AVELL U,434.750000,+,5.000000,Tone,67.0,88.5,023,NN,023,Tone->Tone,FM,5.00,,50W,"LU7EO near Avellaneda, None OPEN",,,,
+2,BERNA V,146.850000,-,0.600000,Tone,146.2,88.5,023,NN,023,Tone->Tone,FM,5.00,,50W,"LU1EA near Bernal, None OPEN",,,,
+3,BERNA U,434.500000,+,5.000000,Tone,123.0,88.5,023,NN,023,Tone->Tone,FM,5.00,,50W,"LU1EA near Bernal, None OPEN",,,,
+4,QUILM V,146.970000,-,0.600000,Tone,131.8,88.5,023,NN,023,Tone->Tone,FM,5.00,,50W,"LU4DQ near Quilmes, None OPEN",,,,
+5,EZPEL U,433.650000,+,5.000000,Tone,131.8,88.5,023,NN,023,Tone->Tone,FM,5.00,,50W,"LU4DQ near Quilmes, None OPEN",,,,
+6,EZPEL V,145.390000,-,0.600000,Tone,131.8,88.5,023,NN,023,Tone->Tone,FM,5.00,,50W,"LU4DQ near Quilmes, None OPEN",,,,

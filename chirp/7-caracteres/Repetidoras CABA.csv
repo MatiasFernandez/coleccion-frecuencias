@@ -1,0 +1,7 @@
+Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsPolarity,RxDtcsCode,CrossMode,Mode,TStep,Skip,Power,Comment,URCALL,RPT1CALL,RPT2CALL,DVCODE
+0,PALERMO,434.925000,+,5.000000,Tone,127.3,88.5,023,NN,023,Tone->Tone,FM,5.00,,50W,"Repetidora Centro Atomico Constituyentes, LU1CGB Ciudad de Buenos Aires, UHF",,,,
+1,LU4BB,146.805000,-,0.600000,Tone,94.8,88.5,023,NN,023,Tone->Tone,FM,5.00,,50W,"LU4BB near Ciudad de Buenos Aires, None OPEN",,,,
+2,PZA ROM,147.345000,+,0.600000,Tone,127.3,88.5,023,NN,023,Tone->Tone,FM,5.00,,50W,Repetidora LU1CGB Cerca de Plaza Roma en Microcentro,,,,
+3,P MADE,433.100000,+,5.000000,Tone,88.5,88.5,023,NN,023,Tone->Tone,FM,5.00,,50W,Repetidora LU4AA Puerto Madero,,,,
+4,P CHA V,147.060000,+,0.600000,Tone,67.0,88.5,023,NN,023,Tone->Tone,FM,5.00,,50W,"LU5CBA near Ciudad de Buenos Aires, None OPEN",,,,
+5,P CHA U,433.800000,+,5.000000,Tone,67.0,88.5,023,NN,023,Tone->Tone,FM,5.00,,50W,"LU5CBA near Ciudad de Buenos Aires, None OPEN",,,,

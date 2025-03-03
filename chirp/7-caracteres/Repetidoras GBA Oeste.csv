@@ -1,0 +1,7 @@
+Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsPolarity,RxDtcsCode,CrossMode,Mode,TStep,Skip,Power,Comment,URCALL,RPT1CALL,RPT2CALL,DVCODE
+0,CASER V,145.420000,-,0.600000,Tone,114.8,88.5,023,NN,023,Tone->Tone,FM,5.00,,50W,Repetidora LU4EV Radio Club Caseros VHF,,,,
+1,CASER U,433.950000,+,5.000000,Tone,88.5,88.5,023,NN,023,Tone->Tone,FM,5.00,,50W,Repetidora LU4EV Radio Club Caseros UHF,,,,
+2,RAMOS U,433.250000,+,5.000000,Tone,74.4,88.5,023,NN,023,Tone->Tone,FM,5.00,,50W,"LU1DM near Ramos Mejia, None OPEN",,,,
+3,MORON V,147.165000,+,0.600000,Tone,141.3,88.5,023,NN,023,Tone->Tone,FM,5.00,,50W,Repetidora LU1DBQV Radio Club Moron VHF,,,,
+4,MORON U,433.500000,+,5.000000,Tone,114.8,88.5,023,NN,023,Tone->Tone,FM,5.00,,50W,Repetidora LU1DBQV Radio Club Moron UHF,,,,
+5,G RODRI,147.390000,+,0.600000,Tone,141.3,88.5,023,NN,023,Tone->Tone,FM,5.00,,50W,"LU3ERU near General Rodriguez, None OPEN",,,,

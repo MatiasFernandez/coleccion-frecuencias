@@ -1,0 +1,8 @@
+Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsPolarity,RxDtcsCode,CrossMode,Mode,TStep,Skip,Power,Comment,URCALL,RPT1CALL,RPT2CALL,DVCODE
+0,ECO LELOIR,145.720000,,0.000000,,88.5,88.5,023,NN,023,Tone->Tone,FM,5.00,,50W,Echolink Parque Leloir LU8ARL-L,,,,
+1,ECO TESEI,146.530000,,0.000000,Tone,100.0,88.5,023,NN,023,Tone->Tone,FM,5.00,,50W,Echolink Villa Tesei LW8EKI-L,,,,
+2,ECO SANMIG,145.570000,,0.000000,,88.5,88.5,023,NN,023,Tone->Tone,FM,5.00,,50W,Echolink San Miguel LU9DJB,,,,
+3,ECO RAMOS,147.430000,,0.000000,,88.5,88.5,023,NN,023,Tone->Tone,FM,5.00,,50W,"LU1DGG near Ramos Mejia, None OPEN",,,,
+4,ECO QUILME,147.570000,,0.000000,,88.5,88.5,023,NN,023,Tone->Tone,FM,5.00,,50W,"LW3DHN near Quilmes, None OPEN",,,,
+5,ECO P CHAS,146.070000,,0.000000,,88.5,88.5,023,NN,023,Tone->Tone,FM,5.00,,50W,"LW3DSM near Chascomus, None OPEN",,,,
+6,ECO FLORID,144.645000,,0.000000,,88.5,88.5,023,NN,023,Tone->Tone,FM,5.00,,50W,"LU9CCQ near Ciudad de Buenos Aires, None OPEN",,,,

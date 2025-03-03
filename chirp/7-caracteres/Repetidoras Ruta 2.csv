@@ -1,0 +1,3 @@
+Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsPolarity,RxDtcsCode,CrossMode,Mode,TStep,Skip,Power,Comment,URCALL,RPT1CALL,RPT2CALL,DVCODE
+0,CHASC V,147.330000,+,0.600000,Tone,82.5,88.5,023,NN,023,Tone->Tone,FM,5.00,,50W,"LW3DYZ near Chascomus, None OPEN",,,,
+1,CHASC U,433.050000,+,5.000000,,88.5,88.5,023,NN,023,Tone->Tone,FM,5.00,,50W,"LU1EWG near Chascomus, None OPEN",,,,

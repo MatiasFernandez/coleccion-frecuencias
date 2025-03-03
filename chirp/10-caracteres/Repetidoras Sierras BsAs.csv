@@ -1,0 +1,4 @@
+Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsPolarity,RxDtcsCode,CrossMode,Mode,TStep,Skip,Power,Comment,URCALL,RPT1CALL,RPT2CALL,DVCODE
+0,TANDIL,147.390000,+,0.600000,Tone,88.5,88.5,023,NN,023,Tone->Tone,FM,5.00,,50W,"LU2EE near Tandil, None OPEN",,,,
+1,BENITO JUA,147.135000,+,0.600000,Tone,67.0,88.5,023,NN,023,Tone->Tone,FM,5.00,,50W,"LU7DFB near Benito Juarez, None OPEN",,,,
+2,VENTANA V,146.730000,-,0.600000,Tone,94.8,88.5,023,NN,023,Tone->Tone,FM,5.00,,50W,"LU7DBL near Torquinst, None OPEN",,,,

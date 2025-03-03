@@ -1,0 +1,8 @@
+Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsPolarity,RxDtcsCode,CrossMode,Mode,TStep,Skip,Power,Comment,URCALL,RPT1CALL,RPT2CALL,DVCODE
+0,BARILO,147.030000,+,0.600000,Tone,71.9,88.5,023,NN,023,Tone->Tone,FM,5.00,,4.0W,"LU1VZ near Bariloche, None OPEN",,,,
+1,RC NH V,146.940000,-,0.600000,Tone,100.0,88.5,023,NN,023,Tone->Tone,FM,5.00,,4.0W,"LU1VNH near Bariloche, None OPEN",,,,
+2,RC NH U,433.100000,+,5.000000,Tone,88.5,88.5,023,NN,023,Tone->Tone,FM,5.00,,4.0W,"LU1VNH near Bariloche, None OPEN",,,,
+3,BOLSON,147.150000,+,0.600000,Tone,94.8,88.5,023,NN,023,Tone->Tone,FM,5.00,,4.0W,"LU1VZ near El Bolson, None OPEN",,,,
+4,CATEDRA,434.500000,+,5.000000,Tone,88.5,88.5,023,NN,023,Tone->Tone,FM,5.00,,4.0W,"LU9VEA near Bariloche, None OPEN",,,,
+5,PENSANP,145.480000,-,0.600000,Tone,71.9,88.5,023,NN,023,Tone->Tone,FM,5.00,,4.0W,"LU1VKQ near Bariloche, None OPEN RPT del Oeste, Llao Llao, Peninsula de San Pedro, Bariloche.",,,,
+6,V ANGOS,145.375000,-,0.600000,Tone,192.8,88.5,023,NN,023,Tone->Tone,FM,5.00,,4.0W,"LU4YYY near Villa la Angostura, None OPEN",,,,

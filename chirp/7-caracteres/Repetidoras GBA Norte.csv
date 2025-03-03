@@ -1,0 +1,11 @@
+Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsPolarity,RxDtcsCode,CrossMode,Mode,TStep,Skip,Power,Comment,URCALL,RPT1CALL,RPT2CALL,DVCODE
+0,SANMI V,146.625000,-,0.600000,Tone,77.0,88.5,023,NN,023,Tone->Tone,FM,5.00,,50W,Repetidora LU7DZV San Miguel Radio Club General Sarmiento VHF,,,,
+1,SANMI U,433.300000,+,5.000000,Tone,88.5,88.5,023,NN,023,Tone->Tone,FM,5.00,,50W,Repetidora LU7DZV San Miguel Radio Club General Sarmiento UHF,,,,
+2,SM DX V,145.495000,-,0.600000,Tone,123.0,88.5,023,NN,023,Tone->Tone,FM,5.00,,50W,Repetidora LU5DSM Radio Club Grupo DX San Miguel,,,,
+3,BALLE V,147.270000,+,0.600000,Tone,71.9,88.5,023,NN,023,Tone->Tone,FM,5.00,,50W,Radio club villa ballester LU5DVB,,,,
+4,BALLE U,434.400000,+,5.000000,Tone,71.9,88.5,023,NN,023,Tone->Tone,FM,5.00,,50W,Radio club villa ballester LU5DVB,,,,
+5,AMSAT,434.900000,+,5.000000,Tone,123.0,88.5,023,NN,023,Tone->Tone,FM,5.00,,50W,"LU7AA near Ciudad de Buenos Aires, None OPEN",,,,
+6,OLIVO V,147.105000,+,0.600000,Tone,123.0,88.5,023,NN,023,Tone->Tone,FM,5.00,,50W,"LU5DA, Radio club rio de la plata. VHF",,,,
+7,OLIVO U,434.600000,+,5.000000,Tone,67.0,88.5,023,NN,023,Tone->Tone,FM,5.00,,50W,"LU5DA, Radio club rio de la plata. UHF",,,,
+8,ESCOBAR,146.715000,-,0.600000,Tone,71.9,88.5,023,NN,023,Tone->Tone,FM,5.00,,50W,"LU1EQ near Escobar, None OPEN",,,,
+9,TIGRE,147.195000,+,0.600000,Tone,67.0,88.5,023,NN,023,Tone->Tone,FM,5.00,,50W,"LU5AM Arroyo Caraguata, Tigre",,,,

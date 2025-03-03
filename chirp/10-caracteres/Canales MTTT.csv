@@ -1,0 +1,4 @@
+Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsPolarity,RxDtcsCode,CrossMode,Mode,TStep,Skip,Power,Comment,URCALL,RPT1CALL,RPT2CALL,DVCODE
+0,MT EMERGEN,140.970000,,0.000000,,88.5,88.5,023,NN,023,Tone->Tone,FM,5.00,,50W,MTTT/Outdoor Emergencias y escucha activa,,,,
+1,MT CH 1,139.970000,,0.000000,,88.5,88.5,023,NN,023,Tone->Tone,FM,5.00,,50W,MTTT/Outdoor Uso primario y normal,,,,
+2,MT CH 2,138.510000,,0.000000,,88.5,88.5,023,NN,023,Tone->Tone,FM,5.00,,50W,MTTT/Outdoor Uso secundario,,,,
