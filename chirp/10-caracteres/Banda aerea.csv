@@ -1,0 +1,10 @@
+Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsPolarity,RxDtcsCode,CrossMode,Mode,TStep,Skip,Power,Comment,URCALL,RPT1CALL,RPT2CALL,DVCODE
+0,AEP CONTRO,118.250000,,0.600000,,88.5,88.5,023,NN,023,Tone->Tone,AM,5.00,,0.0W,Banda area: Aeroparque control,,,,
+1,AEP TORRE,118.850000,,0.600000,,88.5,88.5,023,NN,023,Tone->Tone,AM,5.00,,0.0W,Banda area: Aeroparque Torre,,,,
+2,BAIRES CON,124.900000,,0.600000,,88.5,88.5,023,NN,023,Tone->Tone,AM,5.00,,0.0W,Banda area: Baires control,,,,
+3,EZEIZA TOR,118.600000,,0.600000,,88.5,88.5,023,NN,023,Tone->Tone,AM,5.00,,0.0W,Banda aerea: Ezeiza Torre,,,,
+4,MORENO TOR,119.700000,,0.600000,,88.5,88.5,023,NN,023,Tone->Tone,AM,5.00,,0.0W,Banda aerea: Moreno Torre,,,,
+5,MORON TORR,118.500000,,0.600000,,88.5,88.5,023,NN,023,Tone->Tone,AM,5.00,,0.0W,Banda aerea: Moron Torre,,,,
+6,PALOM TORR,118.900000,,0.600000,,88.5,88.5,023,NN,023,Tone->Tone,AM,5.00,,0.0W,Banda aerea: Palomar Torre,,,,
+7,QUI SJ TOR,118.100000,,0.600000,,88.5,88.5,023,NN,023,Tone->Tone,AM,5.00,,0.0W,Banda aerea: Quilmes - San Justo - Marambio Torre,,,,
+8,SAN FERNAN,120.050000,,0.600000,,88.5,88.5,023,NN,023,Tone->Tone,AM,5.00,,0.0W,Banda aerea: San Fernando Torre,,,,

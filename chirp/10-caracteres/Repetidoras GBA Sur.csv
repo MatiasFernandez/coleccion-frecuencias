@@ -6,3 +6,4 @@ Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsPola
 4,QUILMES V,146.970000,-,0.600000,Tone,131.8,88.5,023,NN,023,Tone->Tone,FM,5.00,,50W,"LU4DQ near Quilmes, None OPEN",,,,
 5,EZPELETA U,433.650000,+,5.000000,Tone,131.8,88.5,023,NN,023,Tone->Tone,FM,5.00,,50W,"LU4DQ near Quilmes, None OPEN",,,,
 6,EZPELETA V,145.390000,-,0.600000,Tone,131.8,88.5,023,NN,023,Tone->Tone,FM,5.00,,50W,"LU4DQ near Quilmes, None OPEN",,,,
+7,EZEIZA V,145.315000,-,0.600000,Tone,141.3,88.5,023,NN,023,Tone->Tone,FM,5.00,,50W,"LU3EEE near Ezeiza, None OPEN",,,,
