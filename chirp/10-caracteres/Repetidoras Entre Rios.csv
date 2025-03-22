@@ -1,2 +1,7 @@
 Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsPolarity,RxDtcsCode,CrossMode,Mode,TStep,Skip,Power,Comment,URCALL,RPT1CALL,RPT2CALL,DVCODE
 0,GUALEGUAY,145.465000,-,0.600000,Tone,82.5,88.5,023,NN,023,Tone->Tone,FM,5.00,,50W,LU2JP Radio Club Gualeguay,,,,
+1,GUAYCHU V,146.640000,-,0.600000,Tone,173.8,88.5,023,NN,023,Tone->Tone,FM,5.00,,50W,LU1JGU Radio club gualeguaychu,,,,
+2,GUAYCHU U,433.600000,+,5.000000,Tone,82.5,88.5,023,NN,023,Tone->Tone,FM,5.00,,50W,LU1JGU Radio club gualeguaychu,,,,
+3,GUAYCHU V2,147.300000,+,0.600000,Tone,71.9,88.5,023,NN,023,Tone->Tone,FM,5.00,,50W,LU3JAS,,,,
+4,GUAYCHU U2,434.250000,+,5.000000,Tone,77.0,88.5,023,NN,023,Tone->Tone,FM,5.00,,50W,LU3JAS,,,,
+5,GDOR MANSI,146.730000,-,0.600000,Tone,123.0,88.5,023,NN,023,Tone->Tone,FM,5.00,,50W,LU1JT Radio club tala,,,,
